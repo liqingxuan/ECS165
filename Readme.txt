@@ -1,4 +1,5 @@
-ECS165A HW4Qingxuan Li 913484797Ran Liu 912567961
+ECS165A HW4
+Qingxuan Li 913484797
 
 Use Python 2.7.12
 Just type python followed with the file name to run.
