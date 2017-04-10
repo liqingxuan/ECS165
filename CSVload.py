@@ -1,6 +1,5 @@
 #ECS165A HW4 Project
 #Name:Qingxuan Li   ID:913484797
-#Name:Ran Liu       ID:912567961
 
 import psycopg2
 import csv
